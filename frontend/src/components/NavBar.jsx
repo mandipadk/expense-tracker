@@ -5,6 +5,7 @@ export const NavBar = () => {
     <div>NavBar
         <h1> This is a test code by Gunjan.</h1>
         <h2> This is a test code by mandip.</h2>
+        <h2>This is also a test code</h2>
     </div>
   )
 }
