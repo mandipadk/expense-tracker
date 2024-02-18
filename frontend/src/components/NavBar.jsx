@@ -7,6 +7,7 @@ export const NavBar = () => {
         <h2> This is a test code by mandip.</h2>
         <h2>This is also a test code</h2>
         <h2>This is a code by Aditya</h2>
+        <h2> This is another code by Kapil</h2>
     </div>
   )
 }
